@@ -31,3 +31,6 @@
 ## Tools
  - [Metasploit: The Penetration Tester's Guide](https://www.amazon.ca/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X) by David Kennedy
  - [Google Hacking for Penetration Testers](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/1597491764) by Johnny Long,  Bill Gardner and Justin Brown
+
+## Linux
+- [The Linux Command Line](http://www.linuxcommand.org/)
