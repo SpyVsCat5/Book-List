@@ -33,4 +33,4 @@
  - [Google Hacking for Penetration Testers](https://www.amazon.com/Google-Hacking-Penetration-Testers-Johnny/dp/1597491764) by Johnny Long,  Bill Gardner and Justin Brown
 
 ## Linux
-- [The Linux Command Line](http://www.linuxcommand.org/)
+- [The Linux Command Line](http://www.linuxcommand.org/) by William Shotts
